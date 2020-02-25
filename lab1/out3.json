@@ -1,0 +1,1887 @@
+[
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1004
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1058
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-Dlu/PvvX4hI1B436PtFBEHOq4+0\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001",
+            "YE": "887"
+        },
+        "latency": 1113
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1158
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "90",
+            "etag": "W/\"5a-2G5tO+6lbxI9rWMYTjF/5QYf5Zo\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "CF": "140",
+            "MIDDLE_AFRICA": "017",
+            "SUB-SAHARAN_AFRICA": "202",
+            "WORLD": "001"
+        },
+        "latency": 1196
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1248
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "61",
+            "etag": "W/\"3d-a/TxyCoFPAVb2L5BBOhFzrOKgaQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:26 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "IR": "364",
+            "SOUTHERN_ASIA": "034",
+            "WORLD": "001"
+        },
+        "latency": 1336
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "91",
+            "etag": "W/\"5b-8dTUKFtXVlUgU/EjEncXx+rR428\"",
+            "date": "Mon, 24 Feb 2020 19:11:27 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "EASTERN_AFRICA": "014",
+            "ET": "231",
+            "SUB-SAHARAN_AFRICA": "202",
+            "WORLD": "001"
+        },
+        "latency": 1894
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "61",
+            "etag": "W/\"3d-a/TxyCoFPAVb2L5BBOhFzrOKgaQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "IR": "364",
+            "SOUTHERN_ASIA": "034",
+            "WORLD": "001"
+        },
+        "latency": 962
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-hZmUUdWxz5Dr/YEQcq4PXson7BQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "DZ": "012",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 977
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-hZmUUdWxz5Dr/YEQcq4PXson7BQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "DZ": "012",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1073
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1114
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-FLxmzF+IvqrRnkoZYyWFAgR/TyY\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "SK": "703",
+            "WORLD": "001"
+        },
+        "latency": 1156
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-2mjkCbaMtHQsOJdbzFyUwOQHErE\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "KW": "414",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1429
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-idiCRelRLXUnujgJD5AtLJZPQhg\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "BY": "112",
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "WORLD": "001"
+        },
+        "latency": 1431
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:28 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1536
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:29 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1261
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-ztCGyt0UDLRACurAXsel7gSBNpE\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EUROPE": "150",
+            "FR": "250",
+            "WESTERN_EUROPE": "155",
+            "WORLD": "001"
+        },
+        "latency": 1322
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1379
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-hZmUUdWxz5Dr/YEQcq4PXson7BQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "DZ": "012",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1399
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1426
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1450
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1734
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-Dlu/PvvX4hI1B436PtFBEHOq4+0\"",
+            "date": "Mon, 24 Feb 2020 19:11:30 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001",
+            "YE": "887"
+        },
+        "latency": 1739
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-zYf+JvgbGrBBrQTcwIXf18Bc0yg\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1123
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "90",
+            "etag": "W/\"5a-AHW+pWQXAglPq8tNd/jhFT43bfY\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "MIDDLE_AFRICA": "017",
+            "SUB-SAHARAN_AFRICA": "202",
+            "TD": "148",
+            "WORLD": "001"
+        },
+        "latency": 1126
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1129
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1131
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-7ost2f6nlwgjj6Vr337gFK2MDTI\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "LY": "434",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1133
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "61",
+            "etag": "W/\"3d-a/TxyCoFPAVb2L5BBOhFzrOKgaQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "IR": "364",
+            "SOUTHERN_ASIA": "034",
+            "WORLD": "001"
+        },
+        "latency": 1135
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-ANOIyJxa5OB3iXowXjusPCtXjJ4\"",
+            "date": "Mon, 24 Feb 2020 19:11:31 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NORTHERN_AFRICA": "015",
+            "SS": "728",
+            "WORLD": "001"
+        },
+        "latency": 1187
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:32 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1942
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 969
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-m+Ic0geFgq7o9/UnYMDVOnOwJ5M\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EUROPE": "150",
+            "NO": "578",
+            "NORTHERN_EUROPE": "154",
+            "WORLD": "001"
+        },
+        "latency": 1001
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-9YK63fokt5GI6HuVqokHaS1rcsY\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "OM": "512",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1051
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-ANOIyJxa5OB3iXowXjusPCtXjJ4\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NORTHERN_AFRICA": "015",
+            "SS": "728",
+            "WORLD": "001"
+        },
+        "latency": 1072
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1095
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-G5MmPH7NP9e064T7QRY750B1k5E\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RO": "642",
+            "WORLD": "001"
+        },
+        "latency": 1192
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1225
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-M2gfq/huRJ6g16IUJIbNXz5/ptE\"",
+            "date": "Mon, 24 Feb 2020 19:11:33 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "CENTRAL_ASIA": "143",
+            "KZ": "398",
+            "WORLD": "001"
+        },
+        "latency": 1361
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-H7PMxu3hBpHdDKkFcWD1mxHL1f0\"",
+            "date": "Mon, 24 Feb 2020 19:11:34 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NORTHERN_AFRICA": "015",
+            "SD": "729",
+            "WORLD": "001"
+        },
+        "latency": 1169
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-BkBFmvqt8EP/nB+638IjCDIIvVA\"",
+            "date": "Mon, 24 Feb 2020 19:11:34 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "DE": "276",
+            "EUROPE": "150",
+            "WESTERN_EUROPE": "155",
+            "WORLD": "001"
+        },
+        "latency": 1197
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-7ost2f6nlwgjj6Vr337gFK2MDTI\"",
+            "date": "Mon, 24 Feb 2020 19:11:34 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "LY": "434",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1205
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-zYf+JvgbGrBBrQTcwIXf18Bc0yg\"",
+            "date": "Mon, 24 Feb 2020 19:11:34 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1208
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:35 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1263
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-zYf+JvgbGrBBrQTcwIXf18Bc0yg\"",
+            "date": "Mon, 24 Feb 2020 19:11:35 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1358
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:35 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1381
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:35 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1432
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1233
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "91",
+            "etag": "W/\"5b-HLxMVzKr/DQa02QEp0oLIfGogKs\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NE": "562",
+            "SUB-SAHARAN_AFRICA": "202",
+            "WESTERN_AFRICA": "011",
+            "WORLD": "001"
+        },
+        "latency": 1278
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-VtRz04Cm4yycaLpHk0gZ5K1vMFk\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "PL": "616",
+            "WORLD": "001"
+        },
+        "latency": 1301
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1339
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-SpHELVf/aHavltBI6dQyJ2PGXYI\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EUROPE": "150",
+            "IT": "380",
+            "SOUTHERN_EUROPE": "039",
+            "WORLD": "001"
+        },
+        "latency": 1451
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1458
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1711
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:36 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1732
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "90",
+            "etag": "W/\"5a-AHW+pWQXAglPq8tNd/jhFT43bfY\"",
+            "date": "Mon, 24 Feb 2020 19:11:37 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "MIDDLE_AFRICA": "017",
+            "SUB-SAHARAN_AFRICA": "202",
+            "TD": "148",
+            "WORLD": "001"
+        },
+        "latency": 1041
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-H7PMxu3hBpHdDKkFcWD1mxHL1f0\"",
+            "date": "Mon, 24 Feb 2020 19:11:37 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NORTHERN_AFRICA": "015",
+            "SD": "729",
+            "WORLD": "001"
+        },
+        "latency": 1047
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:37 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1075
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-u7+hrGKHTXspH3htViS6XJzp7Iw\"",
+            "date": "Mon, 24 Feb 2020 19:11:38 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EUROPE": "150",
+            "GR": "300",
+            "SOUTHERN_EUROPE": "039",
+            "WORLD": "001"
+        },
+        "latency": 1136
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-Dlu/PvvX4hI1B436PtFBEHOq4+0\"",
+            "date": "Mon, 24 Feb 2020 19:11:38 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001",
+            "YE": "887"
+        },
+        "latency": 1166
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-ANOIyJxa5OB3iXowXjusPCtXjJ4\"",
+            "date": "Mon, 24 Feb 2020 19:11:38 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "NORTHERN_AFRICA": "015",
+            "SS": "728",
+            "WORLD": "001"
+        },
+        "latency": 1210
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-zYf+JvgbGrBBrQTcwIXf18Bc0yg\"",
+            "date": "Mon, 24 Feb 2020 19:11:38 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1247
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-MfrUO12aimA3xTBalSqS3B5eqNw\"",
+            "date": "Mon, 24 Feb 2020 19:11:38 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "BE": "056",
+            "EUROPE": "150",
+            "WESTERN_EUROPE": "155",
+            "WORLD": "001"
+        },
+        "latency": 1297
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1134
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-J6I/UGcJobWq8+DfsD68azf85rs\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "SA": "682",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+        },
+        "latency": 1162
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-i26fNnuYmZfydhJMb/lDu3nRmV8\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "EG": "818",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1193
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-G5MmPH7NP9e064T7QRY750B1k5E\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RO": "642",
+            "WORLD": "001"
+        },
+        "latency": 1197
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "91",
+            "etag": "W/\"5b-Phn3pEz8BdVDQRBvJkAuA0FC5Rk\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "EASTERN_AFRICA": "014",
+            "ER": "232",
+            "SUB-SAHARAN_AFRICA": "202",
+            "WORLD": "001"
+        },
+        "latency": 1198
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-x2EmkvSDXSkBFf7JuUIkHYjTY3A\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EUROPE": "150",
+            "NORTHERN_EUROPE": "154",
+            "SE": "752",
+            "WORLD": "001"
+        },
+        "latency": 1229
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-+uuu/oTFDBQ9dNiryjdIAGHzdg0\"",
+            "date": "Mon, 24 Feb 2020 19:11:39 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "CENTRAL_ASIA": "143",
+            "TM": "795",
+            "WORLD": "001"
+        },
+        "latency": 1410
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "61",
+            "etag": "W/\"3d-a/TxyCoFPAVb2L5BBOhFzrOKgaQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:40 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "IR": "364",
+            "SOUTHERN_ASIA": "034",
+            "WORLD": "001"
+        },
+        "latency": 1858
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-M2gfq/huRJ6g16IUJIbNXz5/ptE\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "CENTRAL_ASIA": "143",
+            "KZ": "398",
+            "WORLD": "001"
+        },
+        "latency": 1274
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "60",
+            "etag": "W/\"3c-+uuu/oTFDBQ9dNiryjdIAGHzdg0\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "ASIA": "142",
+            "CENTRAL_ASIA": "143",
+            "TM": "795",
+            "WORLD": "001"
+        },
+        "latency": 1316
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-OyCNtTNJVJOYpi+fzLXwyw1rcVQ\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "RU": "643",
+            "WORLD": "001"
+        },
+        "latency": 1331
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-MyCG32k0Oa7zGtr5qyaBzwngp7A\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "BA": "070",
+            "EUROPE": "150",
+            "SOUTHERN_EUROPE": "039",
+            "WORLD": "001"
+        },
+        "latency": 1398
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "30",
+            "etag": "W/\"1e-LD0rWQvx7aUdRQ4+usZP4W7p4ys\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "location": "Planetary Ocean"
+        },
+        "latency": 1566
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "64",
+            "etag": "W/\"40-mklc/ra6cNVA1+2+AGDp6zt1zpM\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "EASTERN_EUROPE": "151",
+            "EUROPE": "150",
+            "MD": "498",
+            "WORLD": "001"
+        },
+        "latency": 1581
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "65",
+            "etag": "W/\"41-i26fNnuYmZfydhJMb/lDu3nRmV8\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "EG": "818",
+            "NORTHERN_AFRICA": "015",
+            "WORLD": "001"
+        },
+        "latency": 1615
+    },
+    {
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "x-powered-by": "Express",
+            "access-control-allow-origin": "*",
+            "content-type": "application/json; charset=utf-8",
+            "content-length": "91",
+            "etag": "W/\"5b-8dTUKFtXVlUgU/EjEncXx+rR428\"",
+            "date": "Mon, 24 Feb 2020 19:11:41 GMT",
+            "connection": "close"
+        },
+        "config": {
+            "url": "http://localhost:80/gogoApi",
+            "method": "get"
+        },
+        "data": {
+            "AFRICA": "002",
+            "EASTERN_AFRICA": "014",
+            "ET": "231",
+            "SUB-SAHARAN_AFRICA": "202",
+            "WORLD": "001"
+        },
+        "latency": 1647
+    }
+]
