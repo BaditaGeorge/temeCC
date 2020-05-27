@@ -5,7 +5,7 @@ import google.cloud.exceptions
 import json
 import hashlib
 import requests
-credential_path = ""
+credential_path = "bsffinal-45530f1e759f.json"
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 client = datastore.Client('bsffinal')
 
@@ -103,4 +103,3 @@ def delete(request):
         return 'Delete Succesfully'
     else:
         return 'Nothing_Found'
-
